@@ -68,7 +68,7 @@ Clone Repositori:
 
 bash
 Copy
-git clone https://github.com/kdpras00/BookSelf-App-v2
+git clone https://github.com/kdpras00/BookSelf-App-v2.git
 cd bookshelf-app
 Buka di Browser:
 
